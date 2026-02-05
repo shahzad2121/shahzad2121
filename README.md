@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4158D0,100:C850C0&height=160&section=header&text=Shahzad%20Nadeem&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Senior%20Full%20Stack%20Engineer%20%7C%20AI%20Innovator%20%7C%20Team%20Lead&descAlignY=55&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4158D0,100:C850C0&height=160&section=header&text=Shahzad%20Nadeem&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Senior%20Full%20Stack%20Engineer%20%7C%20AI%20%26%20SaaS%20Specialist&descAlignY=55&descSize=18" />
 </div>
 
 <div align="center">
@@ -8,13 +8,11 @@
 
 </div>
 
-<h3 align="center">Senior Software Engineer · AI Innovator · Team Lead @ <strong>Developer Tag</strong></h3>
+<h3 align="center">Senior Full Stack Engineer · AI & SaaS Specialist</h3>
 
 <p align="center">
-  <a href="https://connect2abdulaziz-psi.vercel.app">Portfolio</a> ·
-  <a href="https://linkedin.com/in/connect2abdulaziz">LinkedIn</a> ·
-  <a href="https://leetcode.com/connect2abdulaziz">LeetCode</a> ·
-  <a href="mailto:connect2abdulaziz@gmail.com">Email</a>
+  <a href="https://www.linkedin.com/in/shahzaddev/">LinkedIn</a> ·
+  <a href="mailto:dev0.shahzad@gmail.com">Email</a>
 </p>
 
 ---
@@ -25,8 +23,8 @@
 
 * **6+ years** shipping scalable products (SaaS, dashboards, microservices)
 * **ICPC Asia 2023 — Top 10** · **LeetCode Top 5%**
-* Lead teams building **MERN/Next.js** platforms on **AWS** with solid DevOps
-* Production **AI/RAG** with LangChain/LangGraph
+* Build and scale **MERN/Next.js** platforms with cloud-native architecture
+* Production **AI/RAG** systems using LangChain/LangGraph
 
 ---
 
@@ -35,7 +33,7 @@
 * Architect & deliver **full-stack systems** (Next.js/React · Node.js/Express · PostgreSQL/MongoDB)
 * Design **event-driven microservices** with Docker, queues, and observability
 * Build **AI assistants** (retrieval augmented generation, tools/agents) for real use-cases
-* Lead teams: code reviews, roadmaps, hiring, mentoring
+* Own projects end-to-end: planning, delivery, optimization, and scaling
 
 ---
 
@@ -49,16 +47,16 @@
 
 ### Selected work
 
-> Private client repositories are intentionally not linked. Public case-study write-ups will live on the portfolio. For repo access, please reach out privately.
+> Client repositories are private by default. Public case-study write-ups can be shared on request.
 
 <div align="center">
 
 | Project                        | What it does                                           | Stack                                         | Access                           |
 | ------------------------------ | ------------------------------------------------------ | --------------------------------------------- | -------------------------------- |
-| **LangGraph RAG Starter**      | Production-grade RAG with evaluations & feedback loops | Python, LangChain/LangGraph, OpenAI, PgVector | 🔒 Internal (request case study) |
-| **Next.js SaaS Boilerplate**   | Auth, billing, dashboards, CRUD, testing               | Next.js 14, tRPC, Prisma, PostgreSQL, Stripe  | 🔒 Internal (request case study) |
-| **Event-Driven Microservices** | Services with Kafka/NATS, SAGA/Outbox patterns         | Node.js, Docker, PostgreSQL, Kafka            | 🔒 Internal (request case study) |
-| **AI Support Bot**             | Multilingual support agent with tools & memory         | Python, FastAPI, LangChain, Redis             | 🔒 Internal (request case study) |
+| **LangGraph RAG Starter**      | Production-grade RAG with evaluations & feedback loops | Python, LangChain/LangGraph, OpenAI, PgVector | 🔒 Private (case study on request) |
+| **Next.js SaaS Boilerplate**   | Auth, billing, dashboards, CRUD, testing               | Next.js 14, tRPC, Prisma, PostgreSQL, Stripe  | 🔒 Private (case study on request) |
+| **Event-Driven Microservices** | Services with Kafka/NATS, SAGA/Outbox patterns         | Node.js, Docker, PostgreSQL, Kafka            | 🔒 Private (case study on request) |
+| **AI Support Bot**             | Multilingual support agent with tools & memory         | Python, FastAPI, LangChain, Redis             | 🔒 Private (case study on request) |
 
 </div>
 
@@ -67,41 +65,28 @@
 ### Impact & activity
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats-weld-iota-73.vercel.app/api?username=connect2abdulaziz&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4158D0&icon_color=4158D0&text_color=FFFFFF&border_radius=10" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=connect2abdulaziz&theme=tokyonight&hide_border=true&background=0D1117&stroke=4158D0&ring=4158D0&fire=C850C0&currStreakLabel=C850C0&border_radius=10" />
+  <img width="49%" src="https://github-readme-stats-weld-iota-73.vercel.app/api?username=shahzad2121&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4158D0&icon_color=4158D0&text_color=FFFFFF&border_radius=10" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=shahzad2121&theme=tokyonight&hide_border=true&background=0D1117&stroke=4158D0&ring=4158D0&fire=C850C0&currStreakLabel=C850C0&border_radius=10" />
 </p>
 
 <p align="center">
-  <img width="95%" src="./languages.svg" alt="Languages (public + private repos)" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=connect2abdulaziz&bg_color=0D1117&color=4158D0&line=4158D0&point=C850C0&area=true&hide_border=true&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahzad2121&bg_color=0D1117&color=4158D0&line=4158D0&point=C850C0&area=true&hide_border=true&theme=tokyo-night" />
 </p>
 
 ---
 
-### Leadership & practices
+### How I work
 
-* Write architecture decisions (ADRs) and run blameless post-mortems
-* Prefer automated quality gates: CI, coverage, lint, type-safety
-* Design for operability: logs, traces, dashboards, SLOs
-* Communicate with RFCs and small, frequent releases
-
----
-
-### Achievements
-
-* **ICPC Asia Online Preliminary 2023 – Top 10**
-* **LeetCode Top 5%** problem solver
-* Delivered **50+ projects** for global clients
-* Awarded **Student of the Year** (Akhuwat College)
+* Clear scopes, realistic timelines, zero fluff
+* Strong focus on maintainability and scalability
+* Automated quality gates: CI, linting, type safety
+* Frequent communication and transparent delivery
 
 ---
 
 ### Get in touch
 
-I build reliable software and mentor engineers. If you have a challenging platform problem or want to talk AI + product, reach out.
+If you’re building a SaaS, internal platform, or AI-powered product and need someone who can own it end-to-end, let’s talk.
 
 ---
 
