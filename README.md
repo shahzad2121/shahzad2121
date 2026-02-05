@@ -1,36 +1,111 @@
-<h1 align="center">Hi 👋, I'm Shahzad Nadeem</h1>
-<h3 align="center">A passionate MERN Stack Developer from Pakistan</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4158D0,100:C850C0&height=160&section=header&text=Shahzad%20Nadeem&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Senior%20Full%20Stack%20Engineer%20%7C%20AI%20Innovator%20%7C%20Team%20Lead&descAlignY=55&descSize=18" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shahzad2121&label=Profile%20views&color=0e75b6&style=flat" alt="shahzad2121" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahzad2121" alt="shahzad2121" /></a> </p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4158D0&center=true&vCenter=true&width=700&lines=Building+Scalable+Full+Stack+Apps;AI+%26+LangChain+Integration+Specialist;ICPC+Top+10%20%7C%20LeetCode%20Top%205%25;Passionate%20Leader%20%26%20Mentor;Innovation%20Through%20Code)](https://git.io/typing-svg)
 
-<p align="left"> <a href="https://twitter.com/shahzad2121" target="blank"><img src="https://img.shields.io/twitter/follow/shahzad2121?logo=twitter&style=for-the-badge" alt="shahzad2121" /></a> </p>
+</div>
 
-- 🔭 I’m currently working on **Ride Sharing Site**
+<h3 align="center">Senior Software Engineer · AI Innovator · Team Lead @ <strong>Developer Tag</strong></h3>
 
-- 🌱 I’m currently learning **MERN**
-
-- 👯 I’m looking to collaborate on **Code Editor**
-
-- 💬 Ask me about **JS, Node.Js, React, MongoDB**
-
-- 📫 How to reach me **dev0.shahzad@gmail.com**
-
-- ⚡ Fun fact **I am Extrovert**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/shahzad2121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shahzad2121" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shahzaddev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahzad nadeem" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://connect2abdulaziz-psi.vercel.app">Portfolio</a> ·
+  <a href="https://linkedin.com/in/connect2abdulaziz">LinkedIn</a> ·
+  <a href="https://leetcode.com/connect2abdulaziz">LeetCode</a> ·
+  <a href="mailto:connect2abdulaziz@gmail.com">Email</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahzad2121&show_icons=true&locale=en&layout=compact" alt="shahzad2121" /></p>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahzad2121&show_icons=true&locale=en" alt="shahzad2121" /></p>
+### At a glance
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahzad2121&" alt="shahzad2121" /></p>
+* **6+ years** shipping scalable products (SaaS, dashboards, microservices)
+* **ICPC Asia 2023 — Top 10** · **LeetCode Top 5%**
+* Lead teams building **MERN/Next.js** platforms on **AWS** with solid DevOps
+* Production **AI/RAG** with LangChain/LangGraph
 
+---
+
+### What I do
+
+* Architect & deliver **full-stack systems** (Next.js/React · Node.js/Express · PostgreSQL/MongoDB)
+* Design **event-driven microservices** with Docker, queues, and observability
+* Build **AI assistants** (retrieval augmented generation, tools/agents) for real use-cases
+* Lead teams: code reviews, roadmaps, hiring, mentoring
+
+---
+
+### Tech
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,nodejs,express,python,langchain,mongodb,postgresql,aws,docker,git,graphql" />
+</p>
+
+---
+
+### Selected work
+
+> Private client repositories are intentionally not linked. Public case-study write-ups will live on the portfolio. For repo access, please reach out privately.
+
+<div align="center">
+
+| Project                        | What it does                                           | Stack                                         | Access                           |
+| ------------------------------ | ------------------------------------------------------ | --------------------------------------------- | -------------------------------- |
+| **LangGraph RAG Starter**      | Production-grade RAG with evaluations & feedback loops | Python, LangChain/LangGraph, OpenAI, PgVector | 🔒 Internal (request case study) |
+| **Next.js SaaS Boilerplate**   | Auth, billing, dashboards, CRUD, testing               | Next.js 14, tRPC, Prisma, PostgreSQL, Stripe  | 🔒 Internal (request case study) |
+| **Event-Driven Microservices** | Services with Kafka/NATS, SAGA/Outbox patterns         | Node.js, Docker, PostgreSQL, Kafka            | 🔒 Internal (request case study) |
+| **AI Support Bot**             | Multilingual support agent with tools & memory         | Python, FastAPI, LangChain, Redis             | 🔒 Internal (request case study) |
+
+</div>
+
+---
+
+### Impact & activity
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats-weld-iota-73.vercel.app/api?username=connect2abdulaziz&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4158D0&icon_color=4158D0&text_color=FFFFFF&border_radius=10" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=connect2abdulaziz&theme=tokyonight&hide_border=true&background=0D1117&stroke=4158D0&ring=4158D0&fire=C850C0&currStreakLabel=C850C0&border_radius=10" />
+</p>
+
+<p align="center">
+  <img width="95%" src="./languages.svg" alt="Languages (public + private repos)" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=connect2abdulaziz&bg_color=0D1117&color=4158D0&line=4158D0&point=C850C0&area=true&hide_border=true&theme=tokyo-night" />
+</p>
+
+---
+
+### Leadership & practices
+
+* Write architecture decisions (ADRs) and run blameless post-mortems
+* Prefer automated quality gates: CI, coverage, lint, type-safety
+* Design for operability: logs, traces, dashboards, SLOs
+* Communicate with RFCs and small, frequent releases
+
+---
+
+### Achievements
+
+* **ICPC Asia Online Preliminary 2023 – Top 10**
+* **LeetCode Top 5%** problem solver
+* Delivered **50+ projects** for global clients
+* Awarded **Student of the Year** (Akhuwat College)
+
+---
+
+### Get in touch
+
+I build reliable software and mentor engineers. If you have a challenging platform problem or want to talk AI + product, reach out.
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4158D0,100:C850C0&height=120&section=footer&animation=twinkling" />
+  <strong>Passion + Precision = Innovation</strong>
+</div>
